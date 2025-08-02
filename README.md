@@ -23,6 +23,7 @@ I enjoy participating in game jams and dream of creating indie games one day.
 <br>
 
 ## 📊 Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=marcotani&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcotani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="355" style="display:inline-block; margin-right: 10px;" />
+  <img src="https://streak-stats.demolab.com?user=marcotani&theme=tokyonight&hide_border=true" style="display:inline-block;" />
+</p>
