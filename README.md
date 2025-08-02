@@ -23,5 +23,6 @@ I enjoy participating in game jams and dream of creating indie games one day.
 <br>
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotani&theme=radical&show_icons=true&hide_border=true&layout=compact)
-[![mtani's 42 stats](https://badge.mediaplus.ma/greenbinary/mtani?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+![GitHub Stats](https://streak-stats.demolab.com?user=marcotani&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcotani&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
